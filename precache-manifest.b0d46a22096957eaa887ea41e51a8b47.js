@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ecommerce/static/media/productsBcg.160fddff.jpeg"
   },
   {
-    "revision": "88fbcdff315d57a7b7fc",
+    "revision": "e127546a3ae5379ce141",
     "url": "/ecommerce/static/css/main.22df0c6d.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/ecommerce/static/media/mainBcg.984874d1.jpeg"
   },
   {
-    "revision": "88fbcdff315d57a7b7fc",
-    "url": "/ecommerce/static/js/main.36f325cc.chunk.js"
+    "revision": "e127546a3ae5379ce141",
+    "url": "/ecommerce/static/js/main.51af8889.chunk.js"
   },
   {
     "revision": "945afb997e0731b038ed58fadacfeb3f",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ecommerce/static/css/2.c0b7f447.chunk.css"
   },
   {
-    "revision": "41d5cd72db1962194978e007c0794875",
+    "revision": "07092c2444c147e358038aeee75b57de",
     "url": "/ecommerce/index.html"
   }
 ];
